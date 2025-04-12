@@ -56,8 +56,7 @@ A modern hotel booking website featuring 6 unique room types with a complete res
 ## 🌐 Live Demo
 [View Project Live](https://heatherori.github.io/hotel-reservation/)
 
-## 👩‍💻 Developer
-Project by [Heather Ori](https://github.com/heatherori)
+
 
 ---
 
